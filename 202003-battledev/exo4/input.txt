@@ -1,0 +1,3 @@
+10
+sol glace plante eau sol glace feu eau feu sol
+sol plante feu sol sol plante sol eau eau feu
